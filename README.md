@@ -1,3 +1,3 @@
 dm-portal
 =========
-A Jquery, Java Jboss based UI web-application to support uploading of Excel with contacts info.
+A Jquery, Java and Jboss based web-application to manage Mailing-lists. Users can add/delete/update contacts. Uses Amazon SES to send bulk email to users.
